@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Code\\Blog\\Het scherpeRandjevancsharp\\ScherpeRandjeCSharp\\Les1\\DierenWinkel\\DierenWinkel\\DierenWinkel.csproj",
+      "projectUniqueName": "D:\\Code\\Blog\\Het scherpeRandjevancsharp\\DierenWinkel\\DierenWinkel\\DierenWinkel.csproj",
       "projectName": "DierenWinkel",
-      "projectPath": "D:\\Code\\Blog\\Het scherpeRandjevancsharp\\ScherpeRandjeCSharp\\Les1\\DierenWinkel\\DierenWinkel\\DierenWinkel.csproj",
+      "projectPath": "D:\\Code\\Blog\\Het scherpeRandjevancsharp\\DierenWinkel\\DierenWinkel\\DierenWinkel.csproj",
       "packagesPath": "C:\\Users\\rvand\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Blog\\Het scherpeRandjevancsharp\\ScherpeRandjeCSharp\\Les1\\DierenWinkel\\DierenWinkel\\obj\\",
+      "outputPath": "D:\\Code\\Blog\\Het scherpeRandjevancsharp\\DierenWinkel\\DierenWinkel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rvand\\AppData\\Roaming\\NuGet\\NuGet.Config",

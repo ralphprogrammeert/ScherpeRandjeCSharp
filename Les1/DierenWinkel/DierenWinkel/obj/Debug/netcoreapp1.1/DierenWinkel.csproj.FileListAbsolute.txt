@@ -8,3 +8,13 @@ D:\Code\Blog\Het scherpeRandjevancsharp\DierenWinkel\DierenWinkel\obj\Debug\netc
 D:\Code\Blog\Het scherpeRandjevancsharp\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.AssemblyInfo.cs
 D:\Code\Blog\Het scherpeRandjevancsharp\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.dll
 D:\Code\Blog\Het scherpeRandjevancsharp\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.pdb
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\bin\Debug\netcoreapp1.1\DierenWinkel.deps.json
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\bin\Debug\netcoreapp1.1\DierenWinkel.runtimeconfig.json
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\bin\Debug\netcoreapp1.1\DierenWinkel.runtimeconfig.dev.json
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\bin\Debug\netcoreapp1.1\DierenWinkel.dll
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\bin\Debug\netcoreapp1.1\DierenWinkel.pdb
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.csprojResolveAssemblyReference.cache
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.csproj.CoreCompileInputs.cache
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.AssemblyInfo.cs
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.dll
+D:\Code\Blog\Het scherpeRandjevancsharp\ScherpeRandjeCSharp\Les1\DierenWinkel\DierenWinkel\obj\Debug\netcoreapp1.1\DierenWinkel.pdb
